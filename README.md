@@ -1,16 +1,19 @@
-# video_face_detecting_app
+# 📱 Video Face Detecting App
 
-A new Flutter project.
+A Flutter application that uses the camera to detect faces in real-time and provides detailed insights through a video stream.  
+This project is built using **Google ML Kit / Firebase ML Vision / Face Mesh API** (update based on your implementation).
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Real-time face detection using device camera
+- Face bounding box and landmark overlays
+- Video streaming with detection frames
+- Face logs history page (with timestamp & detection info)
+- Optimized performance even in low-end devices
+- MVVM architecture + Riverpod (if used)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
